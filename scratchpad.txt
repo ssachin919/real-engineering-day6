@@ -1,0 +1,13 @@
+#Common Mistakes
+- Working directly on the main branch
+- Forgetting to pull latest main before creating a branch
+- Bad branch names
+- Opening a PR with no description
+
+# Task For Today
+
+- Create a branch called: featue/navbar
+- Make a small navbar or README change
+- Commit the change
+- Push the branch
+- Open a pull request on GitHub
